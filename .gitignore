@@ -1,0 +1,9 @@
+
+# Jangan unggah konfigurasi database asli
+/config/database.php
+
+# File konfigurasi rahasia
+.env
+
+# File sementara
+*.log
