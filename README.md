@@ -17,7 +17,7 @@ Sistem ini berfokus pada pasien lama, khususnya pasien yang menjalani perawatan 
 
 ### Teknologi yang Digunakan
 
-- PHP Native
+- PHP 
 - MySQL
 - HTML
 - CSS
