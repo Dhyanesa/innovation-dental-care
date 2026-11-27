@@ -18,8 +18,7 @@ Sistem ini berfokus pada pasien lama, khususnya pasien yang menjalani perawatan 
 
 ### Teknologi yang Digunakan
 
-**Teknologi pengembangan:**
-- PHP
+- PHP 
 - MySQL
 - HTML
 - CSS
@@ -88,20 +87,3 @@ Pada tahap pertama, kegiatan yang dilakukan meliputi:
 8. Membuat halaman untuk menampilkan dan menambahkan data pasien.
 
 Pada tahap ini, koneksi database dan login admin telah berhasil diuji, serta fitur dasar pengelolaan pasien mulai dikembangkan.
-
-#### Tahap 2 – Pengembangan Fitur dan Tampilan Sistem
-
-Pada tahap kedua, kegiatan yang dilakukan meliputi:
-
-1. Mengembangkan dashboard admin dan dashboard pasien.
-2. Menambahkan fitur pengelolaan data pasien, meliputi tambah, edit, dan hapus pasien.
-3. Membuat halaman informasi dokter beserta jadwal praktik.
-4. Mengembangkan fitur pengelolaan jadwal kontrol pasien.
-5. Membuat fitur pengelolaan konfirmasi dan pengajuan perubahan jadwal oleh admin.
-6. Membuat halaman jadwal kontrol pasien.
-7. Mengembangkan fitur konfirmasi kehadiran pasien.
-8. Membuat fitur pengajuan perubahan jadwal kontrol oleh pasien.
-9. Mengembangkan halaman utama, halaman login, serta tampilan website menggunakan CSS dan menambahkan aset gambar.
-10. Mengelola versi proyek menggunakan Git dan GitHub dengan melakukan commit dan push perubahan ke branch `development`.
-
-Pada tahap ini, halaman utama, fitur admin, fitur pasien, autentikasi, dan tampilan website telah dikembangkan. Hasil pengembangan juga telah diunggah ke repository GitHub pada branch `development`.
